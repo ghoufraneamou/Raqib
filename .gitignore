@@ -1,0 +1,38 @@
+# Python
+venv/
+.venv/
+backend/venv/
+backend/.venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+dist/
+
+# Secrets
+.env
+.env.local
+.env.production
+
+# Uploads / generated files
+uploads/
+reports/
+
+# AI models
+*.pt
+*.onnx
+
+# Windows
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+stamps_signature_docs.v1i.yolov8/
+yolo_runs/
+*.zip

@@ -1,0 +1,8 @@
+path: /Users/ilyasse/Desktop/Ghoufrane/stamps_signature_docs.v1i.yolov8
+train: train/images
+val: valid/images
+test: valid/images
+nc: 2
+names:
+  0: signature
+  1: stamp
